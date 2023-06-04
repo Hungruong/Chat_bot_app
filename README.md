@@ -16,13 +16,12 @@ The front-end of the app is responsible for rendering the user interface and cap
 # How to Install
 
 To run the Chat Bot App locally on your machine, follow these steps:
-
-Clone the repository:
-  git clone https://github.com/Hungruong/Chat_bot_app.git
-Navigate to the project directory:
-  cd Chat_bot_app
-Install dependencies:
-  npm install
+  1. Clone the repository:
+    git clone https://github.com/Hungruong/Chat_bot_app.git
+  2. Navigate to the project directory:
+    cd Chat_bot_app 
+  3. Install dependencies:
+    npm install
 
 # Usage
 
