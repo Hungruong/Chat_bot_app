@@ -27,6 +27,19 @@ To run the Chat Bot App locally on your machine, follow these steps:
 
 Once the installation is complete, you can start using the Chat Bot App:
 
+Adding .env file in the server folder: 
+  PORT=1337
+  PRIVATE_KEY=c9adff14-d3cf-4e82-ac92-1b2cd7a5d5e2
+  PROJECT_ID=acde14a9-ba6b-475f-b2ee-ab42f2d4e842
+  BOT_USER_NAME=AI_bot
+  BOT_USER_SECRET=1234
+  OPEN_API_NAME=Hung
+  OPEN_API_KEY=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
+
+Adding .env.local file in the client folder:
+  VITE_BASE_URL=http://localhost:1337
+  VITE_PROJECT_ID=acde14a9-ba6b-475f-b2ee-ab42f2d4e842
+
 Start the application:
   npm run dev
 Open your web browser and visit: http://localhost:5173
